@@ -1,6 +1,6 @@
-#Documentación PI
-##Libreria SmokeSensor
-###Métodos
+# Documentación PI
+## Librería SmokeSensor
+### Métodos
 ------------
 #### setPin(pin)
 
@@ -65,8 +65,8 @@ smokeSensor.isSmoking()
 `true` si hay lectura de humo, de lo contrario, `false`
 
 
-##Libreria Fan
-###Métodos
+## Librería Fan
+### Métodos
 ------------
 #### setPin(pin)
 
